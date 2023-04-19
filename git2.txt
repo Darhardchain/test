@@ -1,0 +1,7 @@
+cd ./libmodbus/
+cd ~/Desktop/modbus
+cd ..
+
+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  (#token)
+
+
