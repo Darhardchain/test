@@ -1,7 +1,9 @@
 git init
-git status
+git status 
 git add .  #當新檔案加入資料夾時，要先add才會被commit
-:q!  #離開編輯器
+git commit
+:q!  #離開編輯器 
+git status
 
 
 
@@ -12,3 +14,16 @@ git config user.name
 git config user.email
 
 git commit -m "first commit"   #沒加-m會跳到vim，此時要輸入:q!離開編輯器 
+
+git log    #看先前異動
+q  #離開end
+
+gitk  內建GUI介面
+左上角file-----reload
+
+git reset --hard 0e2da  #前五個SHA1 ID
+
+git reflog
+
+
+
