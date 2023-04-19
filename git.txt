@@ -11,4 +11,4 @@ git confit --global user.name "xxx"
 git config user.name
 git config user.email
 
-git commit -m "first commit"   #-m 
+git commit -m "first commit"   #沒加-m會跳到vim，此時要輸入:q!離開編輯器 
