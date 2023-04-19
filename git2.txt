@@ -5,3 +5,4 @@ cd ..
 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  (#token)
 
 
+git clone +網址
