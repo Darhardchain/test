@@ -1,0 +1,11 @@
+git init
+git status
+git add .
+
+git config --global user.email "xxx@gmail.com"
+git confit --global user.name "xxx"
+
+git config user.name
+git config user.email
+
+git commit -m "first commit"   #-m 
