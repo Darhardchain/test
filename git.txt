@@ -1,7 +1,7 @@
 git init
 git status 
 git add .  #當新檔案加入資料夾時，要先add才會被commit
-git commit
+git commit -m "xxx"
 :q!  #離開編輯器 
 git status
 
